@@ -1,6 +1,6 @@
 # MERN Task Manager
 
-A MERN application fotasks management.
+A MERN application for tasks management.
 
 ## Table of Contents
 
